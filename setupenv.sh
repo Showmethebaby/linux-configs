@@ -13,7 +13,7 @@ cat bash_ps1 >> ~/.bash_ps1
 cat bash_profile >> ~/.bash_profile
 cat bashrc >> ~/.bashrc
 ## for displaying git branch info
-cat .git-prompt.sh > ~/.git-prompt.sh
+cat .git-prompt.sh >> ~/.git-prompt.sh
 
 source ~/.bashrc
 
