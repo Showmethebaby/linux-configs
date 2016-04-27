@@ -1,0 +1,15 @@
+[push]
+	default = simple
+[diff]
+	tool = meld
+[difftool]
+	prompt = false
+[merge]
+	tool = meld
+[user]
+	name = Lewis Lee
+	email = lewisl@ldproducts.com
+[alias]
+	meld = difftool --tool=meld --dir-diff
+[core]
+	editor = vim
