@@ -27,6 +27,7 @@ alias cl='clear; pwd; ls'
 alias j='jobs -l'
 alias ..='cd ..; pwd; ls'
 alias c='cd ..; pwd;'
+alias ll='ls -lG'
 
 # increase bash history
 HISTSIZE=10000
